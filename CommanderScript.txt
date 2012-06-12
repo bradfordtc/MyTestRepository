@@ -1,0 +1,12 @@
+%MIN%
+%BTW% /AF="C:\Sybase\EAServer\ini\labels\OOB\PR300-THT-140_v92_A.btw" /P /PRN="\\sapphire.imsu.ox.ac.uk\Brady BP-PR 300 PLUS" /D=<Trigger File Name> /R=4 /C= /DbTextHeader=4 /X
+%END%
+s_sampleid	samplefamilyid	count
+
+S-100426-00004	SF-100426-00004		
+S-100426-00005	SF-100426-00005		
+S-100426-00006	SF-100426-00006		
+S-100426-00007	SF-100426-00007		
+S-100426-00008	SF-100426-00008		
+S-100426-00009	SF-100426-00009		
+S-100426-00010	SF-100426-00010		
